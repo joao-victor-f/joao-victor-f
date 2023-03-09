@@ -4,7 +4,7 @@
 
 - Autodidata
 - Flexível
-- Estudante ávido
+- Estudante ávido pelo conhecimento
 - Amante de exatas
 
 ## Tecnologias que uso:
