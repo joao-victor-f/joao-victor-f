@@ -2,3 +2,4 @@
 
 - amante de exatas
 - neovim user
+- the start is where everything begins
